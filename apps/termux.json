@@ -1,0 +1,9 @@
+{
+  "name": "Termux",
+  "developer": "Fredrik Fornwall",
+  "developer_verified": true,
+  "description": "Termux is a free and open-source terminal emulator for Android which allows for running a Linux environment on an Android device. [Wikipedia]",
+  "ver": "latest",
+  "url": "https://d.apkpure.net/b/APK/com.termux?version=latest",
+  "icon": "https://image.winudf.com/v2/image1/Y29tLnRlcm11eF9pY29uXzE1NjYxMTcxMzhfMDY0/icon.png?w=342&fakeurl=1"
+}
