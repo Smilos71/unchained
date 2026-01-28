@@ -1,0 +1,9 @@
+{
+  "name": "bitchat",
+  "developer": "Chandorkar Technologies",
+  "developer_verified": true,
+  "description": "Bitchat is a peer-to-peer encrypted messaging app",
+  "ver": "1.7.0",
+  "url": "https://github.com/permissionlesstech/bitchat-android/releases/download/1.7.0/app-universal-release.apk",
+  "icon": "https://image.winudf.com/v2/image1/ZGV2Lmhvc3RpbmdkdXR5LmJpdGNoYXRfaWNvbl8xNzUyMjc0NDA4XzA3NQ/icon.png?w=342&fakeurl=1"
+}
