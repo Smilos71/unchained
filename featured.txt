@@ -4,3 +4,4 @@ xmanager
 osulazer
 bitchat
 vlc
+termux
