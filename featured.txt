@@ -1,5 +1,6 @@
 whatsapp
 telegram
+brave
 xmanager
 osulazer
 bitchat
